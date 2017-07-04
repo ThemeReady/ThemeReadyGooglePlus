@@ -140,7 +140,7 @@
 
     const/4 v1, -0x1
 
-    const v5, -0x50506
+    const v5, -0xcfcfd0
 
     const/4 v4, 0x1
 

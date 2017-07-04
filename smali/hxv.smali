@@ -454,7 +454,7 @@
     iput v1, p0, Lhxv;->i:I
 
     .line 4
-    const v1, 0x7f0c024b
+    const v1, 0x7f0c0250
 
     invoke-virtual {v0, v1}, Landroid/content/res/Resources;->getColor(I)I
 
@@ -1155,7 +1155,7 @@
     .line 91
     sget-object v4, Landroid/util/StateSet;->WILD_CARD:[I
 
-    const v5, 0x7f0c024b
+    const v5, 0x7f0c006e
 
     .line 92
     invoke-virtual {v0, v5}, Landroid/content/res/Resources;->getDrawable(I)Landroid/graphics/drawable/Drawable;

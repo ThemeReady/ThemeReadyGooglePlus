@@ -524,7 +524,7 @@
     invoke-virtual {v0, v1, v2}, Landroid/view/Window;->setLayout(II)V
 
     .line 54
-    const v1, 0x106000b
+    const v1, 0x7f0c006e
 
     invoke-virtual {v0, v1}, Landroid/view/Window;->setBackgroundDrawableResource(I)V
 

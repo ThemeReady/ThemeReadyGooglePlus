@@ -338,7 +338,7 @@
     .line 34
     iget-object v0, p1, Ldvf;->a:Landroid/view/View;
 
-    const v1, 0x7f0c024b
+    const v1, 0x7f0c00fc
 
     invoke-virtual {v0, v1}, Landroid/view/View;->setBackgroundResource(I)V
 

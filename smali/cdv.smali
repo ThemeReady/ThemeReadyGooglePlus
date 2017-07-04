@@ -84,7 +84,7 @@
     invoke-virtual {v2, v0}, Landroid/widget/LinearLayout;->addView(Landroid/view/View;)V
 
     .line 38
-    const v0, 0x7f0c024b
+    const v0, 0x7f0c006e
 
     invoke-virtual {v2, v0}, Landroid/widget/LinearLayout;->setBackgroundResource(I)V
 

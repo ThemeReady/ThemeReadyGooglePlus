@@ -17,7 +17,7 @@
 
     .prologue
     .line 23
-    const v0, 0x7f0c024b
+    const v0, 0x7f0c006e
 
     sput v0, Lhtb;->a:I
 

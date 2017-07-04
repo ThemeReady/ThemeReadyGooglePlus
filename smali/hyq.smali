@@ -665,7 +665,7 @@
     .locals 9
 
     .prologue
-    const v5, 0x7f0c024b
+    const v5, 0x7f0c0250
 
     const/4 v8, 0x1
 

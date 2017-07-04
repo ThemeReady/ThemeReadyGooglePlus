@@ -3,12 +3,12 @@
   xmlns:android="http://schemas.android.com/apk/res/android">
     <LinearLayout android:orientation="horizontal" android:layout_width="wrap_content" android:layout_height="wrap_content" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:layout_alignParentEnd="true">
         <ImageView android:id="@id/post_icon" android:background="@drawable/generic_selector_background" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/ic_compose_white" android:scaleType="center" />
-        <ImageView android:layout_gravity="center" android:id="@id/divider_1" android:visibility="gone" android:layout_width="1.0dip" android:layout_height="24.0dip" android:src="#55ffffff" />
+        <ImageView android:layout_gravity="center" android:id="@id/divider_1" android:visibility="gone" android:layout_width="1.0dip" android:layout_height="24.0dip" android:src="@color/photo_action_bar_layout_divider_background" />
         <ImageView android:id="@id/refresh_icon" android:background="@drawable/generic_selector_background" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/ic_refresh_white" android:scaleType="center" />
         <FrameLayout android:id="@id/refresh_progress" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip">
             <ProgressBar android:layout_gravity="center" android:layout_width="24.0dip" android:layout_height="24.0dip" android:indeterminate="true" style="?android:attr/progressBarStyleSmall" />
         </FrameLayout>
-        <ImageView android:layout_gravity="center" android:id="@id/divider_2" android:visibility="gone" android:layout_width="1.0dip" android:layout_height="24.0dip" android:src="#55ffffff" />
+        <ImageView android:layout_gravity="center" android:id="@id/divider_2" android:visibility="gone" android:layout_width="1.0dip" android:layout_height="24.0dip" android:src="@color/photo_action_bar_layout_divider_background" />
         <ImageView android:id="@id/next_icon" android:background="@drawable/generic_selector_background" android:visibility="gone" android:layout_width="48.0dip" android:layout_height="48.0dip" android:src="@drawable/ic_next_white" android:scaleType="center" />
         <FrameLayout android:id="@id/next_progress" android:layout_width="48.0dip" android:layout_height="48.0dip">
             <ProgressBar android:layout_gravity="center" android:layout_width="24.0dip" android:layout_height="24.0dip" android:indeterminate="true" style="?android:attr/progressBarStyleSmall" />

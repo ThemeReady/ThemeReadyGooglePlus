@@ -76,7 +76,7 @@
     .locals 6
 
     .prologue
-    const v5, 0x106000b
+    const v5, 0x7f0c006e
 
     const/4 v4, 0x5
 
@@ -228,7 +228,7 @@
     .locals 6
 
     .prologue
-    const v5, 0x106000b
+    const v5, 0x7f0c006e
 
     const/4 v4, 0x5
 
@@ -380,7 +380,7 @@
     .locals 6
 
     .prologue
-    const v5, 0x106000b
+    const v5, 0x7f0c006e
 
     const/4 v4, 0x5
 
@@ -1252,7 +1252,7 @@
 
     if-eqz v0, :cond_0
 
-    const v0, 0x1060012
+    const v0, 0x7f0c00a0
 
     .line 110
     :goto_0
@@ -1270,7 +1270,7 @@
 
     .line 109
     :cond_0
-    const v0, 0x106000b
+    const v0, 0x7f0c006e
 
     goto :goto_0
 .end method

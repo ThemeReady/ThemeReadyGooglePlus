@@ -11,5 +11,5 @@
             <TextView android:id="@id/date" android:layout_width="fill_parent" android:layout_height="wrap_content" />
         </LinearLayout>
     </LinearLayout>
-    <View android:id="@id/shade" android:background="#22000000" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <View android:id="@id/shade" android:background="@color/play_tab_strip_bottom" android:visibility="gone" android:layout_width="fill_parent" android:layout_height="fill_parent" />
 </FrameLayout>

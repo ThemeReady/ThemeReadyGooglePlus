@@ -17,8 +17,8 @@
         <LinearLayout android:orientation="vertical" android:id="@id/content" android:layout_width="fill_parent" android:layout_height="wrap_content" android:animateLayoutChanges="true" />
     </ScrollView>
     <include layout="@layout/empty_layout" />
-    <RelativeLayout android:id="@id/audience_container" android:background="#ffffffff" android:layout_width="fill_parent" android:layout_height="56.0dip">
-        <TextView android:textSize="@dimen/text_size_16" android:textColor="@color/text_gray" android:gravity="center_vertical" android:id="@id/visibility" android:background="#fff5f5f5" android:paddingLeft="16.0dip" android:paddingRight="16.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/profile_edit_item_visibility" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" />
+    <RelativeLayout android:id="@id/audience_container" android:background="@color/default_bg" android:layout_width="fill_parent" android:layout_height="56.0dip">
+        <TextView android:textSize="@dimen/text_size_16" android:textColor="@color/text_gray" android:gravity="center_vertical" android:id="@id/visibility" android:background="@color/default_bg" android:paddingLeft="16.0dip" android:paddingRight="16.0dip" android:layout_width="wrap_content" android:layout_height="fill_parent" android:text="@string/profile_edit_item_visibility" android:paddingStart="16.0dip" android:paddingEnd="16.0dip" />
         <com.google.android.libraries.social.acl.TextOnlyAudienceView android:id="@id/audience" android:background="@drawable/generic_selector_background" android:clickable="true" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_toRightOf="@id/visibility" android:layout_alignParentRight="true" android:layout_centerVertical="true" android:layout_toEndOf="@id/visibility" android:layout_alignParentEnd="true" />
         <View android:id="@id/border" style="@style/FlatButtonBorder" />
         <View android:layout_width="fill_parent" android:layout_height="1.0dip" android:layout_below="@id/border" style="@style/FlatButtonShadow" />

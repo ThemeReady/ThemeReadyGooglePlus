@@ -6,6 +6,6 @@
         <View android:id="@id/animated_progress_circle_2" android:background="@drawable/loading_circle" android:layout_width="@dimen/animated_progress_circle_size" android:layout_height="@dimen/animated_progress_circle_size" android:layout_margin="@dimen/animated_progress_circle_margin" />
         <View android:id="@id/animated_progress_circle_3" android:background="@drawable/loading_circle" android:layout_width="@dimen/animated_progress_circle_size" android:layout_height="@dimen/animated_progress_circle_size" android:layout_margin="@dimen/animated_progress_circle_margin" />
     </LinearLayout>
-    <TextView android:textSize="@dimen/text_size_20" android:textColor="@color/quantum_grey600" android:gravity="center" android:id="@id/animated_progress_message" android:layout_width="wrap_content" android:layout_height="wrap_content" />
-    <TextView android:textSize="@dimen/text_size_14" android:textColor="@color/quantum_grey600" android:gravity="center" android:id="@id/animated_progress_sub_message" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="@dimen/text_size_20" android:textColor="@color/text_gray" android:gravity="center" android:id="@id/animated_progress_message" android:layout_width="wrap_content" android:layout_height="wrap_content" />
+    <TextView android:textSize="@dimen/text_size_14" android:textColor="@color/text_gray" android:gravity="center" android:id="@id/animated_progress_sub_message" android:visibility="gone" android:layout_width="wrap_content" android:layout_height="wrap_content" />
 </LinearLayout>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ScrollView android:id="@id/photos_backup_promo_scroll_view" android:background="@color/quantum_white_100" android:layout_width="fill_parent" android:layout_height="fill_parent"
+<ScrollView android:id="@id/photos_backup_promo_scroll_view" android:background="@color/default_bg" android:layout_width="fill_parent" android:layout_height="fill_parent"
   xmlns:android="http://schemas.android.com/apk/res/android">
     <RelativeLayout android:layout_width="fill_parent" android:layout_height="wrap_content">
         <ImageView android:id="@id/photos_backup_promo_image_left" android:layout_width="200.0dip" android:layout_height="252.0dip" android:layout_marginTop="@dimen/backup_promo_image_top_margin" android:src="@drawable/gplus_remove_autobackup_left_300x378dp" android:layout_alignParentLeft="true" android:layout_alignParentTop="true" android:contentDescription="@null" />

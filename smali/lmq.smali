@@ -122,7 +122,7 @@
     if-gt v0, v1, :cond_0
 
     .line 17
-    const v0, 0x7f0c024b
+    const v0, 0x7f0c0250
 
     invoke-virtual {v3, v0}, Landroid/content/res/Resources;->getColor(I)I
 

@@ -2681,11 +2681,11 @@
 
     iget-object v1, p0, Lduh;->ca:Lmtb;
 
-    const v2, 0x7f0c024b
+    const v2, 0x7f0c0250
 
-    const v3, 0x7f0c0280
+    const v3, 0x7f0c0174
 
-    const v4, 0x7f0c027f
+    const v4, 0x7f0c0176
 
     const v5, 0x7f0c0118
 

@@ -62,7 +62,7 @@
     iget-object v0, v0, Lckr;->aG:Landroid/widget/AutoCompleteTextView;
 
     .line 12
-    const v1, 0x7f0c024b
+    const v1, 0x7f0c00fc
 
     invoke-virtual {v0, v1}, Landroid/widget/AutoCompleteTextView;->setDropDownBackgroundResource(I)V
 

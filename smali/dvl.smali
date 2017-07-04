@@ -238,7 +238,7 @@
 
     const v4, 0x7f0204ae
 
-    const v6, 0x7f0c0280
+    const v6, 0x7f0c0174
 
     .line 18
     invoke-virtual {v5, v6}, Landroid/content/res/Resources;->getColor(I)I

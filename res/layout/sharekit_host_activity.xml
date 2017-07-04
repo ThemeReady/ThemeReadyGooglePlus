@@ -10,7 +10,7 @@
         </ScrollView>
         <include android:id="@id/sharebox_buttons_layout" android:layout_width="fill_parent" android:layout_height="wrap_content" layout="@layout/sharekit_sharebox_footer" />
     </com.google.android.libraries.social.ui.views.BoundedLinearLayout>
-    <View android:id="@id/picker_background_dimmer" android:background="#cc000000" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
+    <View android:id="@id/picker_background_dimmer" android:background="@color/album_info_background_color" android:layout_width="fill_parent" android:layout_height="fill_parent" android:alpha="0.0" />
     <com.google.android.libraries.social.sharekit.impl.BoundedFrameLayout android:layout_gravity="center_horizontal" android:paddingLeft="@dimen/sharekit_picker_margin" android:paddingRight="@dimen/sharekit_picker_margin" android:layout_width="fill_parent" android:layout_height="fill_parent" android:maxWidth="@dimen/sharekit_card_max_width" android:paddingStart="@dimen/sharekit_picker_margin" android:paddingEnd="@dimen/sharekit_picker_margin">
         <com.google.android.libraries.social.ui.views.expandingscrollview.ExpandingScrollView android:id="@id/list_expander" android:layout_width="fill_parent" android:layout_height="wrap_content" android:layout_marginTop="@dimen/sharekit_picker_top_margin">
             <FrameLayout android:id="@id/sharekit_picker" android:layout_width="fill_parent" android:layout_height="0.0dip" android:layout_weight="1.0">

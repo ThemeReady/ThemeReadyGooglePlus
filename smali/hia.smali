@@ -100,7 +100,7 @@
 
     iget-object v2, p1, Landroid/support/v7/widget/CardView;->h:Lajh;
 
-    const/4 v3, -0x1
+    const/4 v3, 0x0
 
     invoke-static {v3}, Landroid/content/res/ColorStateList;->valueOf(I)Landroid/content/res/ColorStateList;
 

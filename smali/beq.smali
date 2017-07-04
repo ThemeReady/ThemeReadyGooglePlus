@@ -2405,7 +2405,7 @@
     .line 130
     sput-object v2, Lben;->j:Landroid/graphics/Paint;
 
-    const v3, 0x106000c
+    const v3, 0x7f0c00d2
 
     invoke-virtual {v11, v3}, Landroid/content/res/Resources;->getColor(I)I
 

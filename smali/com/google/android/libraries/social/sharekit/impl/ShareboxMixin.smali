@@ -7174,7 +7174,7 @@
     .line 419
     iget-object v8, p0, Lcom/google/android/libraries/social/sharekit/impl/ShareboxMixin;->az:Landroid/view/ViewGroup;
 
-    const v9, 0x7f0c024b
+    const v9, 0x7f0c00fc
 
     invoke-virtual {v7, v9}, Landroid/content/res/Resources;->getColor(I)I
 

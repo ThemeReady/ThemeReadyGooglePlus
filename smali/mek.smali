@@ -1284,7 +1284,7 @@
     invoke-static {v1, v0}, Lmek;->a(Landroid/content/res/Resources;I)Landroid/graphics/Bitmap;
 
     .line 140
-    const v0, 0x106000b
+    const v0, 0x7f0c006e
 
     invoke-virtual {v1, v0}, Landroid/content/res/Resources;->getColor(I)I
 
@@ -1332,7 +1332,7 @@
     iput v0, p0, Lmek;->ap:I
 
     .line 146
-    const v0, 0x106000b
+    const v0, 0x7f0c006e
 
     invoke-virtual {v1, v0}, Landroid/content/res/Resources;->getColor(I)I
 
