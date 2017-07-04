@@ -1,0 +1,463 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="accessibility_album_details">
+        <item quantity="other">Álbum \"%1$s\", %2$d fotos.</item>
+        <item quantity="one">Album \"%1$s\", %2$d photos.</item>
+    </plurals>
+    <plurals name="accessibility_notification_count_description">
+        <item quantity="other">%d novas notificações do Google+</item>
+        <item quantity="one">%d new Google+ notifications</item>
+    </plurals>
+    <plurals name="accessibility_people_notification_count_description">
+        <item quantity="other">%d novas notificações de pessoas do Google+</item>
+        <item quantity="one">%d new Google+ people notifications</item>
+    </plurals>
+    <plurals name="acl_picker_title_length_other">
+        <item quantity="other">%1$s, %2$s e mais %3$d pessoas</item>
+        <item quantity="one">%1$s, %2$s, and %3$d others</item>
+    </plurals>
+    <plurals name="added_to_circle_notification_message">
+        <item quantity="other">Adicionou %d pessoas aos círculos</item>
+        <item quantity="one">Added %d people to circles</item>
+    </plurals>
+    <plurals name="album_photo_count">
+        <item quantity="other">%d fotos</item>
+        <item quantity="one">%d photos</item>
+    </plurals>
+    <plurals name="animated_gif_count_content_description">
+        <item quantity="other">%d GIFs animados.</item>
+        <item quantity="one">%d animated gifs.</item>
+    </plurals>
+    <plurals name="audience_hidden_user_count">
+        <item quantity="other">mais %d pessoas</item>
+        <item quantity="one">+%d others</item>
+    </plurals>
+    <plurals name="auto_backup_photo_count">
+        <item quantity="other">%s fotos</item>
+        <item quantity="one">%s photos</item>
+    </plurals>
+    <plurals name="auto_backup_wait_network">
+        <item quantity="other">A aguardar por rede (%d em fila de espera)</item>
+        <item quantity="one">Waiting for network (%d queued)</item>
+    </plurals>
+    <plurals name="auto_backup_wait_wifi">
+        <item quantity="other">A aguardar por rede Wi-Fi (%d em fila de espera)</item>
+        <item quantity="one">Waiting for Wi-Fi (%d queued)</item>
+    </plurals>
+    <plurals name="backing_up_photos_count">
+        <item quantity="other">A efetuar cópia de segurança...%1$d restantes</item>
+        <item quantity="one">Backing up...%1$d left</item>
+    </plurals>
+    <plurals name="circle_button_more_circles">
+        <item quantity="other">Mais %d</item>
+        <item quantity="one">%d more</item>
+    </plurals>
+    <plurals name="circle_count_and_matched_email">
+        <item quantity="other">%1$d círculos, %2$s</item>
+        <item quantity="one">%1$d circles, %2$s</item>
+    </plurals>
+    <plurals name="circle_entry_content_description">
+        <item quantity="other">%d membros</item>
+        <item quantity="one">%d members</item>
+    </plurals>
+    <plurals name="circle_location_sharing_count">
+        <item quantity="other">%d pessoas a partilhar</item>
+        <item quantity="one">%d people sharing</item>
+    </plurals>
+    <plurals name="circle_num_members">
+        <item quantity="other">%d pessoas</item>
+        <item quantity="one">%d people</item>
+    </plurals>
+    <plurals name="comment_button_with_comments_content_description">
+        <item quantity="other">Botão de comentários com %d comentários.</item>
+        <item quantity="one">Comment button with %d comments.</item>
+    </plurals>
+    <plurals name="comment_button_with_comments_description">
+        <item quantity="other">Botão Comentar com %d comentários</item>
+        <item quantity="one">Comment button with %d comments.</item>
+    </plurals>
+    <plurals name="comments">
+        <item quantity="other">%d comentários</item>
+        <item quantity="one">%d comments</item>
+    </plurals>
+    <plurals name="comments_on_original_post">
+        <item quantity="other">Ver %d comentários na mensagem original</item>
+        <item quantity="one">See %d comments on original</item>
+    </plurals>
+    <plurals name="common_friend_count">
+        <item quantity="other">%d em comum</item>
+        <item quantity="one">%d in common</item>
+    </plurals>
+    <plurals name="copy_photos_confirmation_dialog">
+        <item quantity="other">Copiar %1$d fotografias para %2$s?</item>
+        <item quantity="one">Copy %1$d photos to %2$s?</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_message">
+        <item quantity="other">Pretende eliminar definitivamente estes círculos?</item>
+        <item quantity="one">Do you want to permanently delete these circles?</item>
+    </plurals>
+    <plurals name="delete_circles_dialog_title">
+        <item quantity="other">Eliminar círculos</item>
+        <item quantity="one">Delete circles</item>
+    </plurals>
+    <plurals name="delete_item_pending">
+        <item quantity="other">A eliminar itens…</item>
+        <item quantity="one">Deleting items…</item>
+    </plurals>
+    <plurals name="delete_photo_pending">
+        <item quantity="other">A eliminar fotografias…</item>
+        <item quantity="one">Deleting photos…</item>
+    </plurals>
+    <plurals name="delete_video_pending">
+        <item quantity="other">A eliminar vídeos…</item>
+        <item quantity="one">Deleting videos…</item>
+    </plurals>
+    <plurals name="deselect_photo_dialog_message">
+        <item quantity="other">Tem a certeza de que pretende desmarcar estas fotografias? Todas as alterações efetuadas serão perdidas.</item>
+        <item quantity="one">Are you sure you want to deselect these photos? All your changes will be lost.</item>
+    </plurals>
+    <plurals name="drafts_number_of_deleted_drafts">
+        <item quantity="other">%d rascunhos eliminados com êxito</item>
+        <item quantity="one">Successfully deleted %d drafts</item>
+    </plurals>
+    <plurals name="edit_audience_num_members">
+        <item quantity="other">%d pessoas</item>
+        <item quantity="one">%d people</item>
+    </plurals>
+    <plurals name="edit_flairs_square_members_count">
+        <item quantity="other">%s membros</item>
+        <item quantity="one">%s members</item>
+    </plurals>
+    <plurals name="event_invitee_other_count">
+        <item quantity="other">mais %d convidados</item>
+        <item quantity="one">+ %d guests</item>
+    </plurals>
+    <plurals name="event_invitee_other_count_total">
+        <item quantity="other">%d convidados</item>
+        <item quantity="one">%d guests</item>
+    </plurals>
+    <plurals name="event_invitee_with_guests">
+        <item quantity="other">%1$s (mais %2$d convidados)</item>
+        <item quantity="one">%1$s (+%2$d guests)</item>
+    </plurals>
+    <plurals name="find_people_circle_description">
+        <item quantity="other">Círculo %1$s, %2$d membros</item>
+        <item quantity="one">%1$s, Circle, %2$d members</item>
+    </plurals>
+    <plurals name="find_people_friends_add_with_count">
+        <item quantity="other">%d pessoas para adicionar</item>
+        <item quantity="one">%d people to add</item>
+    </plurals>
+    <plurals name="from_your_phone_selected_count">
+        <item quantity="other">%d selecionadas</item>
+        <item quantity="one">%d selected</item>
+    </plurals>
+    <plurals name="hoa_event_countdown_days">
+        <item quantity="other">%1$d dias</item>
+        <item quantity="one">%1$d days</item>
+    </plurals>
+    <plurals name="hoa_event_countdown_hours">
+        <item quantity="other">%1$d horas</item>
+        <item quantity="one">%1$d hours</item>
+    </plurals>
+    <plurals name="hoa_event_countdown_minutes">
+        <item quantity="other">%1$d minutos</item>
+        <item quantity="one">%1$d minutes</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_scanned">
+        <item quantity="other">%1$d itens digitalizados</item>
+        <item quantity="one">%1$d items scanned</item>
+    </plurals>
+    <plurals name="ingest_number_of_items_selected">
+        <item quantity="other">%1$d itens selecionados</item>
+        <item quantity="one">%1$d items selected</item>
+    </plurals>
+    <plurals name="manual_awesome_selection_toast_fixed">
+        <item quantity="other">Selecione %1$d fotografias</item>
+        <item quantity="one">Select %1$d photos</item>
+    </plurals>
+    <plurals name="manual_awesome_selection_toast_fixed_including_video">
+        <item quantity="other">Selecione %1$d fotografias ou vídeos</item>
+        <item quantity="one">Select %1$d photos or videos</item>
+    </plurals>
+    <plurals name="map_marker_user_count">
+        <item quantity="other">%d pessoas</item>
+        <item quantity="one">%d people</item>
+    </plurals>
+    <plurals name="menu_retry_failed">
+        <item quantity="other">Tentar enviar novamente mensagens com falha</item>
+        <item quantity="one">Retry failed posts</item>
+    </plurals>
+    <plurals name="more_followers_count">
+        <item quantity="other">e mais %d</item>
+        <item quantity="one">and %d more</item>
+    </plurals>
+    <plurals name="moved_to_trash">
+        <item quantity="other">%d movidos para o lixo</item>
+        <item quantity="one">%d moved to trash</item>
+    </plurals>
+    <plurals name="multiple_belonging_circles">
+        <item quantity="other">%d círculos</item>
+        <item quantity="one">%d circles</item>
+    </plurals>
+    <plurals name="new_auto_awesome_movies">
+        <item quantity="other">%d novos filmes de Autodiversão</item>
+        <item quantity="one">%d new Auto Awesome movies</item>
+    </plurals>
+    <plurals name="notification_autobackup_stalled_quantity_text">
+        <item quantity="other">%1$d dias desde a última cópia de segurança</item>
+        <item quantity="one">%1$d days since last backup</item>
+    </plurals>
+    <plurals name="notification_public_text">
+        <item quantity="other">Tem %1$d notificações.</item>
+        <item quantity="one">You have %1$d notifications.</item>
+    </plurals>
+    <plurals name="notification_sending_posts">
+        <item quantity="other">A enviar %d mensagens…</item>
+        <item quantity="one">Sending %d posts…</item>
+    </plurals>
+    <plurals name="notifications_content_text">
+        <item quantity="other">%1$s (%2$d)</item>
+        <item quantity="one">%1$s (%2$d)</item>
+    </plurals>
+    <plurals name="notifications_ticker_text">
+        <item quantity="other">Novas notif. do Google+</item>
+        <item quantity="one">New Google+ notifications</item>
+    </plurals>
+    <plurals name="num_days_ago">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%d days</item>
+    </plurals>
+    <plurals name="num_days_duration">
+        <item quantity="other">• %d dias</item>
+        <item quantity="one">• %d days</item>
+    </plurals>
+    <plurals name="num_hours_ago">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%d hours</item>
+    </plurals>
+    <plurals name="num_minutes_ago">
+        <item quantity="other">%d mins.</item>
+        <item quantity="one">%d mins</item>
+    </plurals>
+    <plurals name="num_moments">
+        <item quantity="other">• %d momentos</item>
+        <item quantity="one">• %d moments</item>
+    </plurals>
+    <plurals name="one_up_comment_count">
+        <item quantity="other">%d comentários</item>
+        <item quantity="one">%d comments</item>
+    </plurals>
+    <plurals name="people_in_common_count_more">
+        <item quantity="other">%1$s, %2$s, mais %3$d em comum</item>
+        <item quantity="one">%1$s, %2$s, +%3$d in common</item>
+    </plurals>
+    <plurals name="permanent_delete_item_message">
+        <item quantity="other">Pretende eliminar definitivamente os %d itens selecionados?</item>
+        <item quantity="one">Do you want to permanently delete the selected %d items?</item>
+    </plurals>
+    <plurals name="permanent_delete_item_pending">
+        <item quantity="other">A eliminar definitivamente os itens...</item>
+        <item quantity="one">Permanently deleting items…</item>
+    </plurals>
+    <plurals name="permanent_delete_item_title">
+        <item quantity="other">Eliminar itens definitivamente</item>
+        <item quantity="one">Permanently delete items</item>
+    </plurals>
+    <plurals name="permanent_delete_photo_message">
+        <item quantity="other">Pretende eliminar definitivamente as %d fotografias selecionadas?</item>
+        <item quantity="one">Do you want to permanently delete the selected %d photos?</item>
+    </plurals>
+    <plurals name="permanent_delete_photo_pending">
+        <item quantity="other">A eliminar definitivamente as fotografias...</item>
+        <item quantity="one">Permanently deleting photos…</item>
+    </plurals>
+    <plurals name="permanent_delete_photo_title">
+        <item quantity="other">Eliminar fotografias definitivamente</item>
+        <item quantity="one">Permanently delete photos</item>
+    </plurals>
+    <plurals name="permanent_delete_video_message">
+        <item quantity="other">Pretende eliminar definitivamente os %d vídeos selecionados?</item>
+        <item quantity="one">Do you want to permanently delete the selected %d videos?</item>
+    </plurals>
+    <plurals name="permanent_delete_video_pending">
+        <item quantity="other">A eliminar definitivamente os vídeos...</item>
+        <item quantity="one">Permanently deleting videos…</item>
+    </plurals>
+    <plurals name="permanent_delete_video_title">
+        <item quantity="other">Eliminar vídeos definitivamente</item>
+        <item quantity="one">Permanently delete videos</item>
+    </plurals>
+    <plurals name="photo_tile_one_up_plusone_count">
+        <item quantity="other">%d pessoas marcaram este item com +1.</item>
+        <item quantity="one">"%d people +1'd this."</item>
+    </plurals>
+    <plurals name="photo_view_count">
+        <item quantity="other">%s visualizações</item>
+        <item quantity="one">%s views</item>
+    </plurals>
+    <plurals name="photos_selected_description">
+        <item quantity="other">%1$d itens selecionados</item>
+        <item quantity="one">%1$d items selected</item>
+    </plurals>
+    <plurals name="plus_one_accessibility_description">
+        <item quantity="other">%d +1s.</item>
+        <item quantity="one">%d plus ones.</item>
+    </plurals>
+    <plurals name="plus_one_people_more_plus_ones">
+        <item quantity="other">mais %d pessoas</item>
+        <item quantity="one">+%d others</item>
+    </plurals>
+    <plurals name="plusone_button_with_plusones_content_description">
+        <item quantity="other">Botão +1 com %d +1s.</item>
+        <item quantity="one">Plus one button with %d plus ones.</item>
+    </plurals>
+    <plurals name="plusone_button_with_plusones_description">
+        <item quantity="other">Botão Mais um com %d mais uns</item>
+        <item quantity="one">Plus one button with %d plus ones.</item>
+    </plurals>
+    <plurals name="poll_card_content_description">
+        <item quantity="other">Sondagem com %d opções.</item>
+        <item quantity="one">Poll with %d options.</item>
+    </plurals>
+    <plurals name="poll_option_image_content_description">
+        <item quantity="other">Foto para a opção %1$d de %2$d</item>
+        <item quantity="one">Photo for choice %1$d of %2$d</item>
+    </plurals>
+    <plurals name="poll_vote_count">
+        <item quantity="other">%s votos</item>
+        <item quantity="one">%s votes</item>
+    </plurals>
+    <plurals name="poll_vote_count_and_visibility">
+        <item quantity="other">%1$s votos - votos visíveis para %2$s</item>
+        <item quantity="one">%1$s votes - votes visible to %2$s</item>
+    </plurals>
+    <plurals name="promo_auto_backup_reminder_description">
+        <item quantity="other">%1$d fotografias ou vídeos antigos estão a aguardar para serem copiados.</item>
+        <item quantity="one">%1$d photos and videos from the past are waiting to be backed up.</item>
+    </plurals>
+    <plurals name="remove_plusone_button_with_plusones_content_description">
+        <item quantity="other">Desmarcar botão +1 com %d +1s.</item>
+        <item quantity="one">Deselect plus one button with %d plus ones.</item>
+    </plurals>
+    <plurals name="reshare_button_with_reshares_content_description">
+        <item quantity="other">Botão voltar a partilhar com %d novas partilhas.</item>
+        <item quantity="one">Re-share button with %d re-shares.</item>
+    </plurals>
+    <plurals name="reshare_button_with_reshares_description">
+        <item quantity="other">Botão Voltar a partilhar com %d novas partilhas</item>
+        <item quantity="one">Re-share button with %d re-shares.</item>
+    </plurals>
+    <plurals name="reshare_count_description">
+        <item quantity="other">%d pessoas voltaram a partilhar este item.</item>
+        <item quantity="one">%d people reshared this.</item>
+    </plurals>
+    <plurals name="restore_item_pending">
+        <item quantity="other">A restaurar itens…</item>
+        <item quantity="one">Restoring items…</item>
+    </plurals>
+    <plurals name="restore_photo_pending">
+        <item quantity="other">A restaurar fotografias…</item>
+        <item quantity="one">Restoring photos…</item>
+    </plurals>
+    <plurals name="restore_video_pending">
+        <item quantity="other">A restaurar vídeos…</item>
+        <item quantity="one">Restoring videos…</item>
+    </plurals>
+    <plurals name="riviera_album_media_count">
+        <item quantity="other">%d fotografias</item>
+        <item quantity="one">%d photos</item>
+    </plurals>
+    <plurals name="share_photo_count">
+        <item quantity="other">%d fotografias</item>
+        <item quantity="one">%d photos</item>
+    </plurals>
+    <plurals name="share_video_count">
+        <item quantity="other">%d vídeos</item>
+        <item quantity="one">%d videos</item>
+    </plurals>
+    <plurals name="short_num_days">
+        <item quantity="other">%d dias</item>
+        <item quantity="one">%dd</item>
+    </plurals>
+    <plurals name="short_num_days_ago">
+        <item quantity="other">Há %d dias</item>
+        <item quantity="one">%dd ago</item>
+    </plurals>
+    <plurals name="short_num_hours">
+        <item quantity="other">%d horas</item>
+        <item quantity="one">%dh</item>
+    </plurals>
+    <plurals name="short_num_hours_ago">
+        <item quantity="other">Há %d h.</item>
+        <item quantity="one">%dh ago</item>
+    </plurals>
+    <plurals name="short_num_minutes">
+        <item quantity="other">%d minutos</item>
+        <item quantity="one">%dm</item>
+    </plurals>
+    <plurals name="short_num_minutes_ago">
+        <item quantity="other">Há %d mins.</item>
+        <item quantity="one">%dm ago</item>
+    </plurals>
+    <plurals name="short_num_seconds">
+        <item quantity="other">%d segundos</item>
+        <item quantity="one">%ds</item>
+    </plurals>
+    <plurals name="short_num_weeks">
+        <item quantity="other">%d semanas</item>
+        <item quantity="one">%dw</item>
+    </plurals>
+    <plurals name="sign_out_message">
+        <item quantity="other">%d itens a aguardar carregamento. Terminar sessão cancelará todos os carregamentos pendentes.</item>
+        <item quantity="one">%d items waiting to be uploaded. Signing out will cancel all pending uploads.</item>
+    </plurals>
+    <plurals name="source_bar_stream_social_friends_community">
+        <item quantity="other">%1$s e mais %2$d pessoas marcaram esta mensagem com +1 em %3$s</item>
+        <item quantity="one">"%1$s and %2$d others +1'd this post in %3$s"</item>
+    </plurals>
+    <plurals name="spaces_follower_count">
+        <item quantity="other">%s seguidores</item>
+        <item quantity="one">%s followers</item>
+    </plurals>
+    <plurals name="spaces_post_count">
+        <item quantity="other">%s mensagens</item>
+        <item quantity="one">%s posts</item>
+    </plurals>
+    <plurals name="square_members_count">
+        <item quantity="other">%s membros</item>
+        <item quantity="one">%s members</item>
+    </plurals>
+    <plurals name="square_promo_members">
+        <item quantity="other">%s membros</item>
+        <item quantity="one">%s members</item>
+    </plurals>
+    <plurals name="squares_listitem_member_count_content_description">
+        <item quantity="other">Ver a comunidade %1$s, com %2$s membros</item>
+        <item quantity="one">View %1$s, with %2$s members</item>
+    </plurals>
+    <plurals name="squares_listitem_member_count_with_context_content_description">
+        <item quantity="other">Ver a comunidade %1$s, com %2$s membros</item>
+        <item quantity="one">View Community %1$s, with %2$s members</item>
+    </plurals>
+    <plurals name="squares_listitem_unread_post_count">
+        <item quantity="other">%s mensagens não lidas</item>
+        <item quantity="one">%s unread posts</item>
+    </plurals>
+    <plurals name="squares_listitem_with_member_count_change_square_visibility_description">
+        <item quantity="other">%1$s %2$s Community, com %3$s membros no seu perfil</item>
+        <item quantity="one">%1$s %2$s Community, with %3$s members on your profile</item>
+    </plurals>
+    <plurals name="stream_album_photo_count">
+        <item quantity="other">%d FOTOS</item>
+        <item quantity="one">%d PHOTOS</item>
+    </plurals>
+    <plurals name="stream_social_review_embed_review_count">
+        <item quantity="other">%d comentários</item>
+        <item quantity="one">%d Reviews</item>
+    </plurals>
+    <plurals name="tagged_people">
+        <item quantity="other">%d pessoas etiquetadas</item>
+        <item quantity="one">%d people tagged</item>
+    </plurals>
+</resources>

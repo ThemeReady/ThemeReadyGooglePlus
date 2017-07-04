@@ -1,0 +1,14 @@
+.class public interface abstract Lbsg;
+.super Ljava/lang/Object;
+.source "PG"
+
+
+# virtual methods
+.method public abstract C()V
+.end method
+
+.method public abstract a(Ljava/lang/String;)V
+.end method
+
+.method public abstract a(Lmby;)V
+.end method
